@@ -1,0 +1,4 @@
+customer_id,customer_name,customer_segment
+123,CompanyA,Enterprise
+456,CompanyB,SmallBusiness
+789,CompanyC,Enterprise
